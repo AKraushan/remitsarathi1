@@ -1,0 +1,72 @@
+.bg-red{
+	background-color: red;
+}
+.text-white{
+	color: #ffffff;
+}
+.bg-dark-blue{
+	background-color: #025e83 ;
+}
+[class*=sidebar-dark] .brand-link {
+    border-bottom: 1px solid #dadada;
+}
+[class*=sidebar-dark] .user-panel {
+    border-bottom: 1px solid #dadada;
+}
+.small-box{
+	background-color: #35c1f9;
+	color: #efefef;
+}
+.small-box:hover{
+	color: #ffffff;
+	background-color: #00b6ff;
+}
+.small-box>.small-box-footer{
+	background-color: #1cb9f9 ;
+	color: #ffffff !important;
+}
+.small-box:hover >.small-box-footer, .small-box>.small-box-footer:hover {
+	background-color: #1cb9f9;
+	color: #ffffff !important;
+}
+.brand-link .brand-image {
+	float: none;
+line-height: .8;
+margin-left: .8rem;
+margin-right: .5rem;
+max-height: 50px;
+width: auto;
+}
+.ptb-13-05px{
+	padding-top: 13.5px;
+	padding-bottom: 13.5px;
+}
+.ptb-10px{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.ptb-8px{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.pt-10px{
+	padding-top: 10px;
+}
+.pb-10px{
+	padding-bottom: 10px;
+}
+.height-67px{
+	height: 67px;
+}
+.line-height-57px{
+	line-height: 57px;
+}
+.navbar-badge {
+    top: 25px;
+}
+.min-h-68px{
+	min-height: 68px;
+}
+.max-w-100{
+	max-width: 100%;
+}
